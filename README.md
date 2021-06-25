@@ -19,6 +19,15 @@ June 11th: Here are some really great overviews of the information we touched on
 %%%Please complete 4,5 and 6 before next week :)
 
 https://www.mathworks.com/learn/tutorials/matlab-onramp.html?ef_id=Cj0KCQjwnueFBhChARIsAPu3YkTbyq2obGWm63yTfnEe21oJf-m34ra-GSf09E4Otjbn_cHS-JhrzngaAiWREALw_wcB:G:s&s_kwcid=AL!8664!3!429145757409!p!!g!!matlab%20tutorial&s_eid=ppc_108293288628&q=matlab%20tutorial&gclid=Cj0KCQjwnueFBhChARIsAPu3YkTbyq2obGWm63yTfnEe21oJf-m34ra-GSf09E4Otjbn_cHS-JhrzngaAiWREALw_wcB
+
 ----------------------------
+June 18th: Here are some really great overviews of the information we touched on today!https://www.mathworks.com/learn/tutorials/matlab-onramp.html?ef_id=Cj0KCQjw_dWGBhDAARIsAMcYuJz_ZMAyIw-vD9wQqH22xa4fr_BGMNWvcTcFfEokNfPAydKHHdWluNEaAjezEALw_wcB:G:s&s_kwcid=AL!8664!3!452169845223!b!!g!!%2Bmatlab%20%2Btutorial&s_eid=ppc_108293288628&q=+matlab%20+tutorial&gclid=Cj0KCQjw_dWGBhDAARIsAMcYuJz_ZMAyIw-vD9wQqH22xa4fr_BGMNWvcTcFfEokNfPAydKHHdWluNEaAjezEALw_wcB
+
+%%%% We recommend the following tutorials: 7,8,9,10, and 12. 
+
+%%%% We also want to recommend Dr. Talbert's youtube series. He does a great job of providing visuals and walking you through the more complex use of loops and conditional statements in Matlab. 
+
+----------------------------
+June 24th: 
 
 Contact: marco-pipoly@uiowa.edu, jax-skye@uiowa.edu, trevor-cline@uiowa.edu, kerry-tarrant@uiowa.edu, gail-harmatta@uiowa.edu
