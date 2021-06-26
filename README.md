@@ -28,6 +28,11 @@ June 18th: Here are some really great overviews of the information we touched on
 %%%% We also want to recommend Dr. Talbert's youtube series. He does a great job of providing visuals and walking you through the more complex use of loops and conditional statements in Matlab. 
 
 ----------------------------
-June 24th: 
+June 24th: Please take the time to review our materials here and work through the practice problems linked below.
+
+We use all that we have covered in order to work with EEG. Happy coding :)
+
+% Below is a link to a pdf with 55 pages of practice problems and solutions. A bit older, but the principles covered are the same!
+https://mc.stanford.edu/cgi-bin/images/e/e3/Darve_cme102_matlab.pdf
 
 Contact: marco-pipoly@uiowa.edu, jax-skye@uiowa.edu, trevor-cline@uiowa.edu, kerry-tarrant@uiowa.edu, gail-harmatta@uiowa.edu
