@@ -35,4 +35,7 @@ We use all that we have covered in order to work with EEG. Happy coding :)
 % Below is a link to a pdf with 55 pages of practice problems and solutions. A bit older, but the principles covered are the same!
 https://mc.stanford.edu/cgi-bin/images/e/e3/Darve_cme102_matlab.pdf
 
+% Here is a massive bank of problems from Matlab: https://www.mathworks.com/matlabcentral/cody/problems?term=group%3A%22Cody+Challenge%22&sort=created+asc
+% We encourage you to get more and more familiar with what matlab and mathworks has to offer (google is your friend!!!) :)
+
 Contact: marco-pipoly@uiowa.edu, jax-skye@uiowa.edu, trevor-cline@uiowa.edu, kerry-tarrant@uiowa.edu, gail-harmatta@uiowa.edu
