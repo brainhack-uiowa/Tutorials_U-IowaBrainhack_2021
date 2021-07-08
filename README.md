@@ -38,4 +38,9 @@ https://mc.stanford.edu/cgi-bin/images/e/e3/Darve_cme102_matlab.pdf
 % Here is a massive bank of problems from Matlab: https://www.mathworks.com/matlabcentral/cody/problems?term=group%3A%22Cody+Challenge%22&sort=created+asc
 % We encourage you to get more and more familiar with what matlab and mathworks has to offer (google is your friend!!!) :)
 
+----------------------------
+July 2nd: Please take the time to review the reading and powerpoint slides we have provided in the Juluy 2nd folder. 
+
+There is no homework for this week. However, we encourage you to reach out to us and review out posted materials so you can beging to familiarize yourself with this process.
+
 Contact: marco-pipoly@uiowa.edu, jax-skye@uiowa.edu, trevor-cline@uiowa.edu, kerry-tarrant@uiowa.edu, gail-harmatta@uiowa.edu
