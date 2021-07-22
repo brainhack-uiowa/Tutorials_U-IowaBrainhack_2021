@@ -42,5 +42,10 @@ https://mc.stanford.edu/cgi-bin/images/e/e3/Darve_cme102_matlab.pdf
 July 2nd: Please take the time to review the reading and powerpoint slides we have provided in the Juluy 2nd folder. 
 
 There is no homework for this week. However, we encourage you to reach out to us and review out posted materials so you can beging to familiarize yourself with this process.
+----------------------------
+July 9th and 16th: Parts 1 and 2 of EEG lab analaysis and toolbox overview
+
+Here is a link to a set of expanded and detailed videos organized to dive into more of the ERP methodology and application beyond what we covered.
+https://erpinfo.org/intro-to-erps-course-materials
 
 Contact: marco-pipoly@uiowa.edu, jax-skye@uiowa.edu, trevor-cline@uiowa.edu, kerry-tarrant@uiowa.edu, gail-harmatta@uiowa.edu
