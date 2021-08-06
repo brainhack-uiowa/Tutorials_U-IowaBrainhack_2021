@@ -48,4 +48,9 @@ July 9th and 16th: Parts 1 and 2 of EEG lab analaysis and toolbox overview
 Here is a link to a set of expanded and detailed videos organized to dive into more of the ERP methodology and application beyond what we covered.
 https://erpinfo.org/intro-to-erps-course-materials
 
+----------------------------
+July End: EEG Review and Spectral Power Anlysis
+
+We are at our end. What is posted represents the complete tools and information we were able to cover during our EEG month. 
+
 Contact: marco-pipoly@uiowa.edu, jax-skye@uiowa.edu, trevor-cline@uiowa.edu, kerry-tarrant@uiowa.edu, gail-harmatta@uiowa.edu
